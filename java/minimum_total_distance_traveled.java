@@ -3,7 +3,7 @@
 // Language: java
 // Link: https://leetcode.com/problems/minimum-total-distance-traveled/
 // Synced by: LinkCode
-// Date: 9/10/2026, 8:59:39 AM
+// Date: 9/10/2026, 9:00:48 AM
 // ======================================
 
 
