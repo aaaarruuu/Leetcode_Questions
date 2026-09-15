@@ -3,7 +3,7 @@
 // Language: java
 // Link: https://leetcode.com/problems/maximum-number-of-non-overlapping-palindrome-substrings/
 // Synced by: LinkCode
-// Date: 9/15/2026, 11:12:08 AM
+// Date: 9/15/2026, 11:28:43 AM
 // ======================================
 
 
