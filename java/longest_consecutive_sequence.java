@@ -3,7 +3,7 @@
 // Language: java
 // Link: https://leetcode.com/problems/longest-consecutive-sequence/
 // Synced by: LinkCode
-// Date: 9/29/2026, 10:52:31 AM
+// Date: 9/29/2026, 10:52:44 AM
 // ======================================
 
 
